@@ -22,7 +22,6 @@ Hi, I'm Aryan Kumar!
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/14KEI3F3NR3JChIrW4E3_zFtBDaO5Ezd_/view?usp=sharing" target="_blank">MY RESUME.</a>.\
 
 <hr>
-</br>
 ## 🤝 Connect with me
 <p align="center">
 	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
