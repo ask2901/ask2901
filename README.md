@@ -13,13 +13,13 @@ Hi, I'm Aryan Kumar!
 <hr>
 
 
-💻 I am a self-taught Full Stack Developer and React Native Developer
-📚 I am doing Bachelors in Electrical and Computer Science from the National Institute of Technology, Surat
-📝 I have a strong interest in Deep Learning, System Design and Development
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript 
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/14KEI3F3NR3JChIrW4E3_zFtBDaO5Ezd_/view?usp=sharing" target="_blank">MY RESUME.</a>
+💻 I am a self-taught Full Stack Developer and React Native Developer.\
+📚 I am doing Bachelors in Electrical and Computer Science from the National Institute of Technology, Surat.\
+📝 I have a strong interest in Deep Learning, System Design and Development.\
+🌱 Learning about Computer Vision and Machine Learning stuff.\
+🌟 Main languages: Python, JavaScript .\
+🚩 Interested in Full Stack Machine Learning Application development.\
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/14KEI3F3NR3JChIrW4E3_zFtBDaO5Ezd_/view?usp=sharing" target="_blank">MY RESUME.</a>.\
 
 <hr>
 
