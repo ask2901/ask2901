@@ -19,7 +19,7 @@ Hi, I'm Aryan Kumar!
 🌱 Learning about Computer Vision and Machine Learning stuff.\
 🌟 Main languages: Python, JavaScript .\
 🚩 Interested in Full Stack Machine Learning Application development.\
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/14KEI3F3NR3JChIrW4E3_zFtBDaO5Ezd_/view?usp=sharing" target="_blank">MY RESUME.</a>.\
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/14KEI3F3NR3JChIrW4E3_zFtBDaO5Ezd_/view?usp=sharing" target="_blank">MY RESUME.</a>
 
 </hr>
 ### 🤝 Connect with me
