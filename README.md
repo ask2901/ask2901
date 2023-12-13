@@ -64,7 +64,7 @@ Hi, I'm Aryan Kumar!
 </p>
 -->
 
-## Let's Work on Your Project Together!
+## 🤝🏻 &nbsp;Let's Work on Your Project Together!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me or ping me over Linkedin.
 
